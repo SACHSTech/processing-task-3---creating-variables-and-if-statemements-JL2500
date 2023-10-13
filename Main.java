@@ -1,8 +1,8 @@
 import processing.core.PApplet;
 
 /**
- * Main class to execute sketch
- * @author 
+ * A program that sketches a random cat at a random location.
+ * @JulianLi
  *
  */
 class Main {
